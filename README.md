@@ -1,5 +1,6 @@
 sea-b23-mean-median-node
 ========================
+<img src="https://travis-ci.org/HIROSN/sea-b24-mean-median-node.svg" alt="Travis CI Badge"></img>
 
 Submit your Pull Requests to this repository for Mean Median Node homework
 

@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codefellows/sea-b24-mean-median-mode.git"
+    "url": "https://github.com/HIROSN/sea-b24-mean-median-node.git"
   },
   "author": "tyler@codefellows.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codefellows/sea-b24-mean-median-mode/issues"
+    "url": "https://github.com/HIROSN/sea-b24-mean-median-node/issues"
   },
-  "homepage": "https://github.com/codefellows/sea-b24-mean-median-mode",
+  "homepage": "https://github.com/HIROSN/sea-b24-mean-median-node",
   "devDependencies": {
     "chai": "^1.9.2",
     "grunt": "^0.4.5",
